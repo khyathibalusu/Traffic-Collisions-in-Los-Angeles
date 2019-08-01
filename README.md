@@ -6,6 +6,22 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 ## Data cleaning to-do list: 
 (Add items that need to be addressed in order to clean the data. If you've also handled the cleaning, upload/update cleaning code, and comment what you've done.) 
 
+MO Codes (Many missing)
+LA Specific PLans (we don't know what it is?)
+
+
+## Questions to Answer 
+District which reported the most? 
+Is there a relationship between time and locaion? 
+More accidents in particular areas, given particular time? 
+Which location has most accidents? 
+At what time do most accidents occur? 
+Zipcode frequency of accident? 
+Victim age and time relationship? 
+Area name
+Who gets in a crash in a parking lot? 
+Victim demographics - who gets into crashes? 
+Which council districts appear most often? 
 
 ---
 ## Project Timeline: 
