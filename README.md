@@ -11,6 +11,11 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 
 
 ## Questions to Answer 
+- Time Series 
+    - Average number of accidents per hour plotted as time series (x= hour of the day, y= avg numb accidents) 
+    - Do the timings of accidents vary depending on day of the week? 
+- Demonstrate skills with GroupBy and/or Pivot Table
+- Reporting date same as incident date? Check to make sure. YES THEY ARE ALL THE SAME!!! 
 - District which reported the most? 
 - Is there a relationship between time and locaion? 
 - More accidents in particular areas, given particular time? 
