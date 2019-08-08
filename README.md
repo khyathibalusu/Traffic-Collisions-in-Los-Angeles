@@ -9,6 +9,7 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 - MO Codes (Many missing)
 - LA Specific PLans (we don't know what it is?)
 
+**** To discuss at next meeting: I think we need to create a column of unique incidents in order to use pivot/groupby. DL Number is not unique. I would suggest using a combo of DL Number and Date or DL Number and Location. ****
 
 ## Questions to Answer 
 - Time Series 
@@ -19,14 +20,14 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 - District which reported the most? 
 - Is there a relationship between time and locaion? 
 - More accidents in particular areas, given particular time? 
-- Which location has most accidents? 
+- Which location has most accidents? (Rachel)
 - At what time do most accidents occur? 
-- Zipcode frequency of accident? 
+- Zipcode frequency of accident? (Rachel)
 - Victim age and time relationship? 
 - Area name
 - Who gets in a crash in a parking lot? 
 - Victim demographics - who gets into crashes? 
-- Which council districts appear most often? 
+- Which council districts appear most often? (Rachel)
 
 ---
 ## Project Timeline: 
