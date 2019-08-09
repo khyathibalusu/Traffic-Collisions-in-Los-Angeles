@@ -21,7 +21,7 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 - Is there a relationship between time and location? (Hannah)
 - More accidents in particular areas, given particular time? (similar to one above; Hannah)
 - Which location has most accidents? (Rachel)
-- At what time do most accidents occur? 
+- At what time do most accidents occur? (Hannah)
 - Zipcode frequency of accident? (Rachel)
 - Victim age and time relationship? 
 - Area name
