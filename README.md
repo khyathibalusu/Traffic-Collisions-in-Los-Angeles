@@ -24,7 +24,7 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 - At what time do most accidents occur? (Hannah)
 - Zipcode frequency of accident? (Rachel)
 - Victim age and time relationship? 
-- Area name
+- Area name (Khyathi)
 - Who gets in a crash in a parking lot? 
 - Victim demographics - who gets into crashes? (Hannah - I got average age of accidents grouped by sex then descent)
 - Which council districts appear most often? (Rachel)
