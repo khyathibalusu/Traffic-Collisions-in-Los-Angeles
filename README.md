@@ -18,8 +18,8 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 - Demonstrate skills with GroupBy and/or Pivot Table (Hannah - groupby)
 - Reporting date same as incident date? Check to make sure. YES THEY ARE ALL THE SAME!!! (Hannah)
 - District which reported the most? (Hannah)
-- Is there a relationship between time and location? 
-- More accidents in particular areas, given particular time? 
+- Is there a relationship between time and location? (Hannah)
+- More accidents in particular areas, given particular time? (similar to one above; Hannah)
 - Which location has most accidents? (Rachel)
 - At what time do most accidents occur? 
 - Zipcode frequency of accident? (Rachel)
