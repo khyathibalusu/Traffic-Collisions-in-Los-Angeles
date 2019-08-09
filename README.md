@@ -5,7 +5,7 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 
 ## Data cleaning to-do list: 
 (Add items that need to be addressed in order to clean the data. If you've also handled the cleaning, upload/update cleaning code, and comment what you've done.) 
-
+- Victim Sex (what is H and N? Set those to X) (Hannah)
 - MO Codes (Many missing)
 - LA Specific PLans (we don't know what it is?)
 
@@ -13,7 +13,7 @@ https://www.kaggle.com/cityofLA/los-angeles-traffic-collision-data
 
 ## Questions to Answer 
 - Time Series 
-    - Average number of accidents per hour plotted as time series (x= hour of the day, y= avg numb accidents) 
+    - Average number of accidents per hour plotted as time series (x= hour of the day, y= avg numb accidents) (Hannah)
     - Do the timings of accidents vary depending on day of the week? 
 - Demonstrate skills with GroupBy and/or Pivot Table
 - Reporting date same as incident date? Check to make sure. YES THEY ARE ALL THE SAME!!! (Hannah)
